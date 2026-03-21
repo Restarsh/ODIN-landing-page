@@ -41,6 +41,7 @@ button {
     background-color: #1f2937;
     font-size: 18px;
     color: #e5e7eb;
+    text-align: center;
 }
 
 #header-logo-nav {
@@ -137,3 +138,4 @@ button {
     color: white ;
 
 }
+
