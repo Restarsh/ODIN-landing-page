@@ -1,0 +1,139 @@
+* {
+    font-family: Roboto;
+}
+
+header {
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+#hero-main-text {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+button {
+    background-color: #3992f6;
+}
+
+#information-header-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+#quote{
+    background-color: #e5e7eb;
+    font: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    padding : 30px;
+}
+
+#footer {
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#header-logo-nav {
+    display: flex;
+}
+
+#header-logo {
+    padding: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+nav ul {
+    text-decoration: none;
+}
+
+ul
+{
+    list-style-type: none;
+    display: flex;
+    align-items: flex-end;
+}
+
+li {
+    padding: 5px;
+}
+
+#top-part {
+    display: flex;
+
+}
+
+#this-website-is-awesome {
+    padding: 100px 70px;
+    align-items: center;
+}
+
+#this-is-a-placeholder-for-an-image {
+    border: 1px solid grey;
+    background-color: grey;
+    text-align: center;
+    height: 200px;
+    width: 500px;
+    margin-top: 150px;
+    
+}
+
+#placeholder-text {
+    padding: 50px 100px;
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    border-radius: 10%;
+    margin: 10px;
+}
+
+#information-header-text {
+    text-align: center;
+}
+
+#some-boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#box {
+    border: 1px solid skyblue;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 100px;
+    width: 100px;
+}
+
+#sign-up-bar {
+    background-color: #3992f6;
+    margin: 40px 70px;
+    border: 1px solid white;
+    border-radius: 2%;
+    padding: 10px 50px;
+    border-style: double;
+}
+
+#blue-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white ;
+
+}
